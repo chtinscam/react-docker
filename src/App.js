@@ -12,13 +12,13 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Hello world!!
+        Hello wtgrfgorld!!
         <
         /p>
 
         <
-        /header> <
-        /div>
+        /header> < /
+        div >
     );
 }
 
